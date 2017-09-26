@@ -15,7 +15,7 @@ Forensics
 ## Solution
 We are supposed to find the password.
 
-Let's see if we have any strings that contain password by doing `strings | data.pcap | grep pass`
+Let's see if we have any strings that contain password by doing `strings data.pcap | grep pass`
 
 And we get this,
 ```html
@@ -26,7 +26,7 @@ And we get this,
 We see that the form is sending a password using the name `paswrd`. Let's try to grep that by doing `strings data.pcap | grep pswrd`
 
 We are presented with this,
-```html
+```
 <td><input type="password" name="pswrd"/></td>
 document.login.pswrd.value = btoa(document.login.pswrd.value);
 <td><input type="password" name="pswrd"/></td>
