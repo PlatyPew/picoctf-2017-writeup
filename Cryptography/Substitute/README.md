@@ -1,17 +1,20 @@
-# Question
-Points: pts
+# Substitute
+Points: 40
 
 ## Category
-Category
+Cryptography
 
 ## Question
->Question goes here
+>A wizard (he seemed kinda odd...) handed me [this](cipher.txt). Can you figure out what it says?
 
 ### Hint
->Hint goes here
+>There are tools that make this easy this.
 
 ## Solution
-Solution here
+As the title would suggest, this is a substitution cipher.
+
+Going to [quipqiup](https://quipqiup.com/), we can break the substitution cipher.
+
 
 ### Flag
-`Flag`
+`IFONLYMODERNCRYPTOWASLIKETHIS`
