@@ -34,7 +34,7 @@ document.login.pswrd.value = btoa(document.login.pswrd.value);
 &Ruserid=hardawayn&pswrd=UEFwZHNqUlRhZQ%3D%3Dv
 ```
 
-We see that there `pswrd=UEFwZHNqUlRhZQ%3D%3Dv`
+We see that `pswrd=UEFwZHNqUlRhZQ%3D%3Dv`
 
 Decoding the html elements and decoding it once more in base64, we get the flag.
 ```python
