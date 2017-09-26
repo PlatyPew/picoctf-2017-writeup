@@ -18,7 +18,7 @@ Writeups for picoctf 2017
 - [keyz](Cryptography/keyz)
 - [Substitute](Cryptography/Substitute)
 - [Hash101](Cryptography/Hash101)
-- [computerAES](Cryptography/computerAES)
+- [computeAES](Cryptography/computeAES)
 - [computeRSA](Cryptography/computeRSA)
 
 ### Reverse Engineering
