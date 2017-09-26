@@ -1,4 +1,5 @@
 # Question
+Points: pts
 
 ## Category
 Category

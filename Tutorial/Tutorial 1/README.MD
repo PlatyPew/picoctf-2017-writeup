@@ -1,4 +1,5 @@
 # Tutorial 1
+Points: 0
 
 ## Category
 Tutorial
