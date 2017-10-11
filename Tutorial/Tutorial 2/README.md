@@ -5,7 +5,7 @@ Points: 0
 Tutorial
 
 ## Question
->Robin handed me [this](message.txt) the other day. Maybe it will help me find the answer?
+>Robin handed me [this](files/message.txt) the other day. Maybe it will help me find the answer?
 
 ### Hint
 >There are a number of solvers on the internet that can help!

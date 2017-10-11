@@ -5,7 +5,7 @@ Points: 40
 Cryptography
 
 ## Question
->A wizard (he seemed kinda odd...) handed me [this](cipher.txt). Can you figure out what it says?
+>A wizard (he seemed kinda odd...) handed me [this](files/cipher.txt). Can you figure out what it says?
 
 ### Hint
 >There are tools that make this easy this.

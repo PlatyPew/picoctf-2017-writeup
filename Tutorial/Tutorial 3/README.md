@@ -5,7 +5,7 @@ Points: 0
 Tutorial
 
 ## Question
->QRobin handed me some color [codes](codes.txt) the other day. They don't look like anything to me though. Can you help me find her favorite shade of red?
+>QRobin handed me some color [codes](files/codes.txt) the other day. They don't look like anything to me though. Can you help me find her favorite shade of red?
 
 ### Hint
 >Once again, there are tools on the interwebz that can help! (There's a clear theme here, from the easiest pico problems, to the hardest ones in other CTFs, search engines are your friend!)

@@ -5,7 +5,7 @@ Points: 50
 Forensics
 
 ## Question
->We need to gain access to some routers. Let's try and see if we can find the password in the captured network data: [data.pcap](data.pcap).
+>We need to gain access to some routers. Let's try and see if we can find the password in the captured network data: [data.pcap](files/data.pcap).
 
 ### Hint
 >It looks like someone logged in with their password earlier. Where would log in data be located in a network capture?

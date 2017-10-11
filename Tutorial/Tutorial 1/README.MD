@@ -5,7 +5,7 @@ Points: 0
 Tutorial
 
 ## Question
->How can you figure out Robin Morris's middle name? Thankfully you have a [list](contractors.txt) you can check!
+>How can you figure out Robin Morris's middle name? Thankfully you have a [list](files/contractors.txt) you can check!
 
 ### Hint
 >Please don't search by hand!
