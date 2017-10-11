@@ -17,9 +17,9 @@ $ ./raw2hex
 The flag is:qux8&S┌▒├≤@░␊┌┌↑┬...
 ```
 
-A bunch of giberrish shows up.
+A bunch of gibberish shows up.
 
-From the question text, the flag is that giberrish in hex
+From the question text, the flag is that gibberish in hex
 
 Converting it to hex
 ```
