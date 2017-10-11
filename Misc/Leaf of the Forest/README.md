@@ -11,7 +11,7 @@ Misc
 >Is there a search function in Linux? Like if I wanted to 'find' something...
 
 ## Solution
-Same thing as [Leaf of the Tree](Leaf%20of%20the%20Tree)
+Same thing as [Leaf of the Tree](../Leaf%20of%20the%20Tree)
 
 ```
 $ find . -type f -name flag -exec cat {} \; ; echo
