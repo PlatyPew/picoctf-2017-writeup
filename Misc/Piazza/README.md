@@ -1,17 +1,21 @@
-# Question
-Points: pts
+# Piazza
+Points: 10
 
 ## Category
-Category
+Misc
 
 ## Question
->Question goes here
+>Have questions about pico? You can ask [here](http://piazza.com/picoctf/spring2017/31337). The access code is 31337.
 
 ### Hint
->Hint goes here
+>?
 
 ## Solution
-Solution here
+This is a dumb challenge
+
+Enter class code 31337, create an account
+
+Flag is in the pinned post 'Welcome'
 
 ### Flag
-`Flag`
+`flag{ask_and_hop3fully_we_can_help}`

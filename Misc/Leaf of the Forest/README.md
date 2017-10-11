@@ -1,17 +1,22 @@
-# Question
-Points: pts
+# Leaf of the Forest
+Points: 30
 
 ## Category
-Category
+Misc
 
 ## Question
->Question goes here
+>We found an even bigger directory tree hiding a flag starting at /problems/d9fbdb968961f708989999193aaca05d. It would be impossible to find the file named flag manually...
 
 ### Hint
->Hint goes here
+>Is there a search function in Linux? Like if I wanted to 'find' something...
 
 ## Solution
-Solution here
+Same thing as [Leaf of the Tree](Leaf%20of%20the%20Tree)
+
+```
+$ find . -type f -name flag -exec cat {} \; ; echo
+e553af78ff1f7a6a428456ac53d837e5
+```
 
 ### Flag
-`Flag`
+`e553af78ff1f7a6a428456ac53d837e5`
