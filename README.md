@@ -46,8 +46,8 @@ Writeups for picoctf 2017
 ## Level 2
 
 ### Forensics
-- [Meta Find Me]()
-- [Little School Bus]()
+- [Meta Find Me](Forensics/Meta%20Find%20Me)
+- [Little School Bus](Forensics/Little%20School%20Bus)
 - Just Keyp Trying
 
 ### Cryptography
@@ -56,7 +56,7 @@ Writeups for picoctf 2017
 - Weird RSA
 
 ### Reverse Engineering
-- [A Thing Called the Stack]()
+- [A Thing Called the Stack](Reverse%20Engineering/A%20Thing%20Called%20The%20Stack)
 - Programmers Assemble
 
 ### Web Exploitation
