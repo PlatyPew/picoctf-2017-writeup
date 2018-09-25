@@ -59,8 +59,8 @@ Writeups for picoctf 2017
 - Just Keyp Trying
 
 ### Cryptography
-- [SoRandom]()
-- [LeakedHashes]()
+- [SoRandom](Cryptography/SoRandom)
+- [LeakedHashes](Cryptography/LeakedHashes)
 - Weird RSA
 
 ### Reverse Engineering
